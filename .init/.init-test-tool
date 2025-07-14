@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/music-discover-and-playlist-hub-6bfb5f35/music_app_frontend"
+}
